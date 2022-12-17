@@ -1,0 +1,105 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch ObstacleAssault (Debug)",
+			"request": "launch",
+			"program": "/Users/romankucherenko/Documents/Unreal Projects/ObstacleAssault/Binaries/Mac/UnrealGame-Mac-Debug.app/Contents/MacOS/UnrealGame-Mac-Debug",
+			"preLaunchTask": "ObstacleAssault Mac Debug Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.0",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch ObstacleAssault (DebugGame)",
+			"request": "launch",
+			"program": "/Users/romankucherenko/Documents/Unreal Projects/ObstacleAssault/Binaries/Mac/UnrealGame-Mac-DebugGame.app/Contents/MacOS/UnrealGame-Mac-DebugGame",
+			"preLaunchTask": "ObstacleAssault Mac DebugGame Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.0",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch ObstacleAssault (Development)",
+			"request": "launch",
+			"program": "/Users/romankucherenko/Documents/Unreal Projects/ObstacleAssault/Binaries/Mac/UnrealGame.app/Contents/MacOS/UnrealGame",
+			"preLaunchTask": "ObstacleAssault Mac Development Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.0",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch ObstacleAssault (Test)",
+			"request": "launch",
+			"program": "/Users/romankucherenko/Documents/Unreal Projects/ObstacleAssault/Binaries/Mac/UnrealGame-Mac-Test.app/Contents/MacOS/UnrealGame-Mac-Test",
+			"preLaunchTask": "ObstacleAssault Mac Test Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.0",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch ObstacleAssault (Shipping)",
+			"request": "launch",
+			"program": "/Users/romankucherenko/Documents/Unreal Projects/ObstacleAssault/Binaries/Mac/UnrealGame-Mac-Shipping.app/Contents/MacOS/UnrealGame-Mac-Shipping",
+			"preLaunchTask": "ObstacleAssault Mac Shipping Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.0",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch ObstacleAssaultEditor (Debug)",
+			"request": "launch",
+			"program": "/Users/Shared/Epic Games/UE_5.0/Engine/Binaries/Mac/UnrealEditor-Mac-Debug.app/Contents/MacOS/UnrealEditor-Mac-Debug",
+			"preLaunchTask": "ObstacleAssaultEditor Mac Debug Build",
+			"args": [
+				"/Users/romankucherenko/Documents/Unreal Projects/ObstacleAssault/ObstacleAssault.uproject"
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.0",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch ObstacleAssaultEditor (DebugGame)",
+			"request": "launch",
+			"program": "/Users/Shared/Epic Games/UE_5.0/Engine/Binaries/Mac/UnrealEditor-Mac-DebugGame.app/Contents/MacOS/UnrealEditor-Mac-DebugGame",
+			"preLaunchTask": "ObstacleAssaultEditor Mac DebugGame Build",
+			"args": [
+				"/Users/romankucherenko/Documents/Unreal Projects/ObstacleAssault/ObstacleAssault.uproject"
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.0",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch ObstacleAssaultEditor (Development)",
+			"request": "launch",
+			"program": "/Users/Shared/Epic Games/UE_5.0/Engine/Binaries/Mac/UnrealEditor.app/Contents/MacOS/UnrealEditor",
+			"preLaunchTask": "ObstacleAssaultEditor Mac Development Build",
+			"args": [
+				"/Users/romankucherenko/Documents/Unreal Projects/ObstacleAssault/ObstacleAssault.uproject"
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.0",
+			"type": "lldb"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "/Users/Shared/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=/Users/romankucherenko/Documents/Unreal Projects/ObstacleAssault/ObstacleAssault.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "internalConsole",
+			"internalConsoleOptions": "openOnSessionStart",
+			"stopAtEntry": false,
+			"cwd": "/Users/Shared/Epic Games/UE_5.0"
+		}
+	]
+}
