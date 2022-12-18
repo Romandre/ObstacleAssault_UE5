@@ -16,7 +16,7 @@ The level is small, but holds many moving and rotating objects interfering a pla
 <img src="https://github.com/Romandre/ObstacleAssault_UE5/blob/943d2666556eabe8cc35641a0ee937dbe977e674/Images/LastObstaclesCourse.gif" width="800" />
 <br />
 
-## What I learned durinmg game development process:
+## What I learned during game development process:
 
 - Camera actor modifying and field of view settings
 - Manipulating actors behaviour at the game runtime such as moving and rotating
@@ -25,8 +25,12 @@ The level is small, but holds many moving and rotating objects interfering a pla
 - UPROPERTY variable, structs and functions calling in C++
 - Scope resolution operator
 - Unreal game mode settings
+<br />
 
+#### The game was developed in scope of [Unreal Engine 5 C++ Developer course](https://www.udemy.com/course/unrealcourse/) on Udemy.
+<br /><br /><br />
 
+[Описание игры на русском]() 👈
 
 
 
