@@ -1,6 +1,6 @@
 # ObstacleAssault game repository
 
-### ObstacleAssault is a game built on Unreal Engine 5 using C++ with blueprint coding combined. 
+### ObstacleAssault is a game built on Unreal Engine 5 with C++ with blueprint languages combined. 
 
 <img src="https://github.com/Romandre/ObstacleAssault_UE5/blob/943d2666556eabe8cc35641a0ee937dbe977e674/Images/ObstacleAssaultLevel.gif" width="800" />
 <br />
@@ -28,7 +28,7 @@ The level is small, but holds many moving and rotating objects interfering a pla
 <br />
 
 #### The game was developed in scope of [Unreal Engine 5 C++ Developer course](https://www.udemy.com/course/unrealcourse/) on Udemy.
-<br /><br /><br />
+<br />
 
 [Описание игры на русском]() 👈
 
