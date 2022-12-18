@@ -1,4 +1,4 @@
-# Игра ObstacleAssault (Штурм препятствий)
+# Игра ObstacleAssault (Штурм полосы с препятствиями)
 
 ### ObstacleAssault написана на  C++ и Blueprint в Unreal Engine 5. 
 
