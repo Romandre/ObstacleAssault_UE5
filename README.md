@@ -1,6 +1,6 @@
-# ObstacleAssault game repository
+# "Obstacle Assault" game repository
 
-### ObstacleAssault is a game built on Unreal Engine 5 with C++ and blueprint languages combined. 
+### Obstacle Assault is a game built on Unreal Engine 5 with C++ and blueprint languages combined. 
 
 <img src="https://github.com/Romandre/ObstacleAssault_UE5/blob/943d2666556eabe8cc35641a0ee937dbe977e674/Images/ObstacleAssaultLevel.gif" width="800" />
 <br />
