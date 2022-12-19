@@ -30,7 +30,7 @@ The level is small, but holds many moving and rotating objects interfering a pla
 #### The game was developed in scope of [Unreal Engine 5 C++ Developer course](https://www.udemy.com/course/unrealcourse/) on Udemy.
 <br />
 
-[Описание игры на русском](https://github.com/Romandre/ObstacleAssault_UE5/blob/afa5a8b6827059336313a391e7f66148603866d2/README_RU.md) 👈
+[Описание игры на русском](README_RU.md) 👈
 
 
 
