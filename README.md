@@ -7,7 +7,7 @@
 
 ## Game details:
 
-In this game a played have to pass the obstacle course with different challenging obstacles which may push player of the ground into the abyss.
+In this game a player have to pass the obstacle course with different challenging obstacles which may push player off the ground into the abyss.
 
 The level is small, but holds many moving and rotating objects interfering a player to pass through to the end of the track. 
 
